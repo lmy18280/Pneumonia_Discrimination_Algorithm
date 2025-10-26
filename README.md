@@ -25,6 +25,7 @@
 ## 数据集
 
 使用公开胸部X光数据集:
+https://www.kaggle.com/datasets/nih-chest-xrays/data/
 - 训练集: 5,216张图像
   - 正常: 1,341张
   - 肺炎: 3,875张
